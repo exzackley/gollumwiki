@@ -1,0 +1,3 @@
+[submodule "vendor/gollum"]
+	path = vendor/gollum
+	url = git@gitlab.cybrilla.com:alekhya/doppl_wiki.git
