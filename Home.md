@@ -1,1 +1,1 @@
-Welcome to the home page.
+Welcome to the home page
