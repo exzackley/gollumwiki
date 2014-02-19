@@ -1,3 +1,3 @@
 [submodule "vendor/gollum"]
 	path = vendor/gollum
-	url = git@github.com:Alekhya/gollum.git
+	url = https://github.com/cybrilla/gollum.git
