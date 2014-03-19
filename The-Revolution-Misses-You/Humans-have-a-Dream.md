@@ -40,4 +40,4 @@ What this book is about, though, is picking that dream back up. What I’m sugge
 
 And the good news is that fully liberating humanity is possible — in your life time. Really. I promise, just read on. 
 
-### [[It's like Communism in there!|The Revolution Misses You/It's like Communism in there!]]
+### [[NEXT: It's like Communism in there!|The Revolution Misses You/It's like Communism in there!]]
