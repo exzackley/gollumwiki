@@ -69,3 +69,5 @@ It doesn’t mean you need to shrink even further from leadership. It means you 
 If, on the other hand, you seek to “help [other] people,” without consciously switching class allegiance, then you’ll spend your life struggling for one two-bit, harmless reform after another, in the name of the [other] people, for a nice fat middle class salary.
 
 And that’s not cool. You really shouldn’t do that.  
+
+### [[NEXT: Land and Freedom|The-Revolution-Misses-You/Land-and-freedom]]
