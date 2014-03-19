@@ -80,4 +80,4 @@ The answer, for me, and for Thomas Jefferson and Sojourner Truth, and the guy wh
 
 That’s what we want. It’s irrelevant to ask whether capitalism has gotten us closer to that dream or not. It has completely changed our understanding of what it means to be human. If we’re asking whether it was good that capitalism was born, we might as well ask whether it was good that we were born.
 
-### [[NEXT: Why you, rich kid?|The-Revolution-Misses-You/Why-you%2C-rich-kid%3F]]
+### [[NEXT: Why you, rich kid?|The Revolution Misses You/Why you, rich kid?]]
