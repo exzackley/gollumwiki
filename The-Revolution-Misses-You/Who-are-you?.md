@@ -40,4 +40,4 @@ If you're in any of those groups, the good news is that there are sections ahead
 
 Maybe you’ll find it.
 
-### [[NEXT: Humans have a dream|The Revolution Misses You/Humans have a Dream]
+### [[NEXT: Humans have a dream|The Revolution Misses You/Humans have a Dream]]
