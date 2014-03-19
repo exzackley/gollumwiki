@@ -77,4 +77,4 @@ And we ruined it. We took that good and natural process of power-building at wor
 
 I left Allentown a scorched and smoking battleground behind me. It would take the workers years to get back to normal. I had barely a scratch on me. 
 
-### [[What Makes Capitalism Different|The Revolution Misses You/What makes Capitalism different?]]
+### [[NEXT: What Makes Capitalism Different|The Revolution Misses You/What makes Capitalism different?]]
