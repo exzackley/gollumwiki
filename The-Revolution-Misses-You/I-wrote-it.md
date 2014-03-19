@@ -39,3 +39,5 @@ The next morning, I got a call from Wes Boyd at MoveOn asking me to come to thei
 One thing led to another and now here I was, scarcely two years later, signing emails as John Kerry to millions of people. And it looked like I actually was going to raise $100 million for, if not the anti-war candidate, as least the one running against the war candidate.
 
 “Yes, I wrote it,” I replied to the communications director, and carried on my meeting with McAuliffe.
+
+### [[NEXT: Who are you?|The-Revolution-Misses-You/Who-are-you?]]
