@@ -53,3 +53,5 @@ What does all this mean for us?
 That is a big question. It will take some sorting through. We’ve got time. 
 
 But basically, the questions are: In America, where making a living no longer has anything to do with land for 98% of the people, what is the resource that matters? And is there an extractive class, equivalent to the Philippines’ old extractive parasite landowners, who are presiding over the decline of American fortunes? And if there is a class like that, then what must we learn from the movement that got a couple billion people their land back? 
+
+### MORE TO COME -- this is just a very rough draft. Leave me some comments please!
