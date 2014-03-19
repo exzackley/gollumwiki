@@ -39,3 +39,5 @@ And then, with no warning and with unrelenting force, the 20th century put the d
 What this book is about, though, is picking that dream back up. What I’m suggesting is: if you are one of those selected by God or history or your grandmother’s bedtime stories to be a Dreamer, then your confusion about what to do with your life will only end when you commit your life to the dream of a fully liberated humanity.
 
 And the good news is that fully liberating humanity is possible — in your life time. Really. I promise, just read on. 
+
+### [[It's like Communism in there!|The Revolution Misses You/It's like Communism in there!]]
