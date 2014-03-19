@@ -76,3 +76,5 @@ Over the course of the campaign, as I had been warned I would, I did see friends
 And we ruined it. We took that good and natural process of power-building at work, a process that was in fact doomed to fail without some delivery of external resources; we inserted ourselves right into the middle of it, taking leadership over it, disrupting it; we raised the hopes of some and massively pissed off others; and we fucked the whole thing up.     
 
 I left Allentown a scorched and smoking battleground behind me. It would take the workers years to get back to normal. I had barely a scratch on me. 
+
+### [[What Makes Capitalism Different|The Revolution Misses You/What makes Capitalism different?]]
