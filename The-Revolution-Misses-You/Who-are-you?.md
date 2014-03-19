@@ -39,3 +39,5 @@ Or are you just sticking with the Democratic party, working for candidates, tryi
 If you're in any of those groups, the good news is that there are sections ahead addressed specifically to you. If you’ve come this far, you must be looking for something — keep reading. 
 
 Maybe you’ll find it.
+
+### [[NEXT: Humans have a dream|The Revolution Misses You/Humans have a Dream]
