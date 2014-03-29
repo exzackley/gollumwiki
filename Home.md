@@ -6,14 +6,14 @@ Works in progress:
 
 reading notes/book reports:
 
-[[Ideological Origins of the American Revolution]]
+[[Ideological Origins of the American Revolution]] Bernard Bailyn
 
 [[American Nations]]
 
-[[The Barbarous Years]]
+[[The Barbarous Years]] Bernard Bailyn, 2012
 
 [[Revolt Against the Masses]]
 
-[[Puritans and Adventurers]]
+[[Puritans and Adventurers]] 
 
-[[Beyond Outrage]]
+[[Beyond Outrage]] Robert Reich
