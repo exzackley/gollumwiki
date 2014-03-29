@@ -1,7 +1,7 @@
 # The Revolt Against the Masses: How Liberalism Has Undermined the Middle Class
 
-**The Revolt Against the Masses: How Liberalism Has Undermined the Middle Class 
-**by Fred Siegel
+*The Revolt Against the Masses: How Liberalism Has Undermined the Middle Class*
+*by Fred Siegel*
 
 This book was a pleasure to read because he's tracing the origins of the snobbery of the American left/liberal/progressive subculture. Siegel's basic point: American Left/liberal/progressives (ALLPs -- my abbreviation, not his) believe the American people are stupid and -- worse -- tacky. Therefore, the ALLPs have a choice between two missions: change the American people, or somehow get them out of politics.
 
