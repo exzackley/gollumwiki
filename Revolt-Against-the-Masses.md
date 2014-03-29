@@ -1,8 +1,5 @@
 # The Revolt Against the Masses: How Liberalism Has Undermined the Middle Class
 
-_The Revolt Against the Masses: How Liberalism Has Undermined the Middle Class_
-by Fred Siegel
-
 This book was a pleasure to read because he's tracing the origins of the snobbery of the American left/liberal/progressive subculture. Siegel's basic point: American Left/liberal/progressives (ALLPs -- my abbreviation, not his) believe the American people are stupid and -- worse -- tacky. Therefore, the ALLPs have a choice between two missions: change the American people, or somehow get them out of politics.
 
 Of course, the American people have already been squeezed out of politics: real politics are practiced between lobbyists and legislators. The ALLPs are angry that crass profit-seeking business people are the ones who did it instead of themselves.
@@ -21,7 +18,7 @@ Wells saw America as the future of the human race. America like no other country
 
 > “My hero in the confused drama of human life is intelligence; intelligence inspired by constructive passion,” Wells wrote in The Future in America. “There is a demigod imprisoned in mankind.” HG Well Future of America.
 
-But a much bigger figure in Siegel's book is Herbert Croly, who he says is one of the big guys behind the development of pre-WWII authoritarian liberalism. And...I'm afraid that Croly makes a big appearance in an important Obama speech that Robert Reich gets down on his knees and worships at the end of his latest book __[[Outrage]]__.
+But a much bigger figure in Siegel's book is Herbert Croly, who he says is one of the big guys behind the development of pre-WWII authoritarian liberalism. And...I'm afraid that Croly makes a big appearance in an important Obama speech that Robert Reich gets down on his knees and worships at the end of his latest book __[[Beyond Outrage]]__.
 
 > If liberals have a hard time understanding their own history, it’s at least in part because they’ve so successfully avoided dealing with Herbert Croly—who he was and what he hoped to achieve. Croly’s moralistic streak led his detractors to describe him as “Crolier than thou,” but his was an unconventional kind of morality. He was born in 1869 to David Croly and Jane Cunningham Croly, both successful New York journalists. David Croly, a sexual reformer who believed that copulatory repression bred social disorder, was a founding member of the Church of Humanity, an institution dedicated to propagating the ideas of the French sociologist Auguste Comte. David Croly’s wife, known professionally as “Jennie June,” was a caustic critic of marriage and a leading feminist writer. Their son was among the first in America to be baptized into the Comtian faith. Comte, a utopian socialist of sorts, attributed the troubles of the modern world to the “spiritual disorganization of society.” He wanted to deploy positivist science to restore the unity lost in the Protestant Reformation, and thus create a modern version of the “moral communism of medieval Christendom.”
 <<p. 11>>
