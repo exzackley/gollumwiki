@@ -1,12 +1,14 @@
 # The Barbarous Years: The Peopling of British North America: The Conflict of Civilizations, 1600-1675 by Bernard Bailyn
 
-## Chapter 1: The Americans
+## Introduction 
 
 > But their experiences were not mainly of triumph but of confusion, failure, violence, and the loss of civility as they sought to normalize abnormal situations and to recapture lost worlds, in the process tearing apart the normalities of the people whose world they had invaded.[(131)](kindle://book?action=open&asin=B0082XLXOO&location=131)
 
 > All the people involved—native Americans, Europeans, latterly Africans—struggled for survival with outlandish aliens, rude people, uncultured in what mattered. All—native Americans, Europeans, and Africans—felt themselves dragged down or threatened with descent into squalor and savagery. All sought to restore the civility they once had known. Later generations, reading back[(134)](kindle://book?action=open&asin=B0082XLXOO&location=134)
 
-> THEY LIVED crowded lives.[(149)](kindle://book?action=open&asin=B0082XLXOO&location=149)
+## Chapter 1: The Americans
+
+> THEY LIVED crowded lives. Few in number by modern demographic standards, even before European diseases tore through their villages like the wrath of God, their world was multitudinous, densely populated by active, sentient, and sensitive spirits, spirits with consciences, memories, and purposes, that surrounded them, instructed them, impinged on their lives at every turn. No less real for being invisible, these vital spirits inhered in the heavens, the earth, the seas, and everything within. They drove the stars in the sky and gave life and sensibility to every bird, animal, and person that existed, and they were active within the earth’s materials— rocks, hills, lakes, and rivers— and in the wind, the cold, the heat, and the seasons. These purposeful, powerful spiritual forces that crowded the Indians’ world required respect; care had to be taken not to offend them. One must act prudently, obey ancient precepts, learn complex prescriptions, and take advice from the gracious and sage. There were right ways and wrong ways. There were life-giving empowerments and tangles of prohibitions. When the rules were broken, people suffered. [(149)](kindle://book?action=open&asin=B0082XLXOO&location=149)
 
 > In this magico-animist world taboos abounded. To obey them would minimize offenses and so help maintain stability; to violate them would lead to disaster. The possible effects of women’s “uncleanliness” and their procreative processes had to be strenuously controlled.[(177)](kindle://book?action=open&asin=B0082XLXOO&location=177)
 
