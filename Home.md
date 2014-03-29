@@ -12,5 +12,7 @@ reading notes/book reports:
 
 [[The Barbarous Years]]
 
+[[Revolt Against the Masses]]
+
 [[Puritans and Adventurers]]
 
