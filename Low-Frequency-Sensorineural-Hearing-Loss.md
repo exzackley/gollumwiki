@@ -2,6 +2,7 @@ Some terms:
 
 - [Speech-reception threshold (SRT)](http://medical-dictionary.thefreedictionary.com/speech+reception+threshold): The minimum intensity in decibels at which a patient can understand 50% of spoken words; used in tests of speech audiometry. Also called speech recognition threshold. 
 - Monaural: pertaining to one ear
+
 Some fundamental acoustics concepts:
 
 - [Low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter), [High-pass filter](https://en.wikipedia.org/wiki/High-pass_filter)
@@ -15,3 +16,15 @@ Some fundamental acoustics concepts:
 
 Possible causes: 
 - [Acoustic Neuroma (Vestibular Schwannoma)] aka Brain Tumor! (http://neurosurgery.ucla.edu/body.cfm?id=1123&ref=1&action=detail)
+
+
+Articles: 
+
+
+
+
+Random/background: 
+
+Normal hearing people Speech reception thresholds as function of noise and other stuff. 1979 [Speech‐reception threshold for sentences as a function of age and noise level](http://scitation.aip.org/content/asa/journal/jasa/66/5/10.1121/1.383554)
+
+ 
