@@ -1,4 +1,6 @@
-### Some terms, acronyms and abbreviations used in the academic literature: 
+## Concepts, terms, acronyms and abbreviations you'll need 
+
+### Hearing loss and hearing aid related: 
 
 - Hearing loss: HL!
 - [Speech-reception threshold (SRT)](http://medical-dictionary.thefreedictionary.com/speech+reception+threshold): The minimum intensity in decibels at which a patient can understand 50% of spoken words; used in tests of speech audiometry. Also called speech recognition threshold. 
@@ -15,9 +17,10 @@
 - Distortion product otoacoustic emissions (DPOAEs): sounds that come out of the cochlea in the most common kind of OAE test, which use tones instead of clicks. 
 - [Ototoxic](http://en.wikipedia.org/wiki/Ototoxicity): toxic to the ear.
 - Occlude/Occluding: stop, close up, or obstruct (an opening, orifice, or passage). e.g. hearing aids for low frequency hearing loss are usually occluding. 
+- Directionality in hearing aids. [Explanation by hearing aid manufacturer](http://www.sonion.com/Products/~/media/Files/Products/Application%20Notes/Transducers/Directionality_AN_rev005.ashx), [and another](https://starkeypro.com/resources/starkey-evidence/research-resources/directivity-index), 
+- Occlusion effect: 
 
-
-### Some fundamental acoustics concepts:
+### Acoustics and related science:
 
 - [Low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter), [High-pass filter](https://en.wikipedia.org/wiki/High-pass_filter)
 - [Band-pass filer](https://en.wikipedia.org/wiki/Band-pass_filter)
@@ -26,6 +29,9 @@
 - [Acoustic Ohm](https://en.wikipedia.org/wiki/Acoustic_ohm)
 - [Frequency spectrum](https://en.wikipedia.org/wiki/Frequency_spectrum#Physical_acoustics_of_music) 
 - This guy's [ancient videos](http://vimeo.com/album/1512837/video/18938334) are actually a good intro to some basic acoustics concepts.
+- Roll off: the smooth fall of response to zero at either end of the frequency range of a piece of audio equipment.
+- 
+
 
 ## Introductory articles/explanations:
 
@@ -99,8 +105,8 @@ Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a functi
 
 ### Directional microphones:
 
-- [Performance of directional microphones for hearing aids: Real world vs Simulation](https://www.etymotic.com/publications/erl-0103-2004.pdf)
--- Some methods of simulating directional performance were not accurate, one was. 
+- [Performance of directional microphones for hearing aids: Real world vs Simulation](https://www.etymotic.com/publications/erl-0103-2004.pdf) Some methods of simulating directional performance were not accurate, one was. 
+- [Directional Hearing Aids: Concepts and Overview (2005)](http://www.audiologyonline.com/articles/directional-hearing-aids-concepts-and-1012)
 
 ### Tools/Resources:
 
