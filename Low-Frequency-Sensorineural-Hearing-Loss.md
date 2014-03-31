@@ -4,7 +4,11 @@
 - Monaural: pertaining to one ear
 - Hearing in noise test (HINT): here's an article [about it](http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2445&context=etd). 
 - Decibles: [1](http://www.epd.gov.hk/epd/noise_education/web/ENG_EPD_HTML/m1/intro_5.html), [2]()
-
+- threshold equalizing noise (TEN)
+- Threshold Equalizing Noise test (TEN(HL))
+- high-frequency emphasis (HFE) 
+- Quick Speech In Noise (QSIN)
+- [Inner Hair Cells (IHCs)](http://www.cochlea.eu/en/hair-cells/inner-hair-cells-ihcs-stucture)
 ### Some fundamental acoustics concepts:
 
 - [Low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter), [High-pass filter](https://en.wikipedia.org/wiki/High-pass_filter)
@@ -21,12 +25,26 @@
 
 ## Articles: 
 
+### Hearing Aid fitting 
 
+[Loudness matching of signals spectrally shaped by a simulated hearing aid.](http://www.ncbi.nlm.nih.gov/pubmed/8487527): Amplifying either side of the spectrum makes things sound louder, even though it's not louder.
+
+### Dead zones
+[Dead zones and reverse curves](http://journals.lww.com/thehearingjournal/Fulltext/2009/08000/Dead_zones_and_reverse_curves.8.aspx)
+
+[Head injuries not likely to cause low-freq hearing loss](http://www.ncbi.nlm.nih.gov/pubmed/24653897)
+
+#### Genetics: 
+
+[WFS1 and non-syndromic low-frequency sensorineural hearing loss](http://www.ncbi.nlm.nih.gov/pubmed/24462758)
 
 
 #### Random/background: 
 
-Normal hearing people Speech reception thresholds as function of noise and other stuff. 1979 [Speech‐reception threshold for sentences as a function of age and noise level](http://scitation.aip.org/content/asa/journal/jasa/66/5/10.1121/1.383554)
+[Speech‐reception threshold for sentences as a function of age and noise level](http://scitation.aip.org/content/asa/journal/jasa/66/5/10.1121/1.383554)
+
+
+
 
 ### Tools/Resources:
 
