@@ -103,10 +103,13 @@ Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a functi
 
 [Use of a loudness model for hearing aid fitting. IV. Fitting hearing aids with multi-channel compression so as to restore 'normal' loudness for speech at different levels.](http://www.ncbi.nlm.nih.gov/pubmed/10905450)
 
-### Directional microphones:
+### Directionality:
 
 - [Performance of directional microphones for hearing aids: Real world vs Simulation](https://www.etymotic.com/publications/erl-0103-2004.pdf) Some methods of simulating directional performance were not accurate, one was. 
 - [Directional Hearing Aids: Concepts and Overview (2005)](http://www.audiologyonline.com/articles/directional-hearing-aids-concepts-and-1012)
+- [A method to measure hearing aid directivity index and polar pattern in small and reverberant enclosures.](http://www.ncbi.nlm.nih.gov/pubmed/21309640)
+- [Directivity of different hearing aid microphone locations. 2002](http://www.ncbi.nlm.nih.gov/pubmed/12467370)
+- [Acoustic classification and segmentation using modified spectral roll-off and variance-based features](http://www.sciencedirect.com/science/article/pii/S1051200412002473)
 
 ### Tools/Resources:
 
