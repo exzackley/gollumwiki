@@ -1,5 +1,6 @@
-### Some terms: 
+### Some terms, acronyms and abbreviations used in the academic literature: 
 
+- Hearing loss: HL!
 - [Speech-reception threshold (SRT)](http://medical-dictionary.thefreedictionary.com/speech+reception+threshold): The minimum intensity in decibels at which a patient can understand 50% of spoken words; used in tests of speech audiometry. Also called speech recognition threshold. 
 - Monaural: pertaining to one ear
 - Hearing in noise test (HINT): here's an article [about it](http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2445&context=etd). 
@@ -9,6 +10,10 @@
 - high-frequency emphasis (HFE) 
 - Quick Speech In Noise (QSIN)
 - [Inner Hair Cells (IHCs)](http://www.cochlea.eu/en/hair-cells/inner-hair-cells-ihcs-stucture)
+- Otoacoustic Emissions (OAEs) test 
+- Transient evoked otoacoustic emission (TEOAE): the sounds that come out of the cochlea in a OAE test.
+- [Ototoxic](http://en.wikipedia.org/wiki/Ototoxicity): toxic to the ear.
+
 ### Some fundamental acoustics concepts:
 
 - [Low-pass filter](https://en.wikipedia.org/wiki/Low-pass_filter), [High-pass filter](https://en.wikipedia.org/wiki/High-pass_filter)
