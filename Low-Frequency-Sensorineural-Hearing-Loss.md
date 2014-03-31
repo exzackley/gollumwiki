@@ -12,6 +12,7 @@
 - [Inner Hair Cells (IHCs)](http://www.cochlea.eu/en/hair-cells/inner-hair-cells-ihcs-stucture)
 - Otoacoustic Emissions (OAEs) test 
 - Transient evoked otoacoustic emission (TEOAE): the sounds that come out of the cochlea in a OAE test.
+- Distortion product otoacoustic emissions (DPOAEs): sounds that come out of the cochlea in the most common kind of OAE test, which use tones instead of clicks. 
 - [Ototoxic](http://en.wikipedia.org/wiki/Ototoxicity): toxic to the ear.
 
 ### Some fundamental acoustics concepts:
