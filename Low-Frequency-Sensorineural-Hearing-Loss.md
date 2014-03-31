@@ -6,7 +6,7 @@
 - [Speech-reception threshold (SRT)](http://medical-dictionary.thefreedictionary.com/speech+reception+threshold): The minimum intensity in decibels at which a patient can understand 50% of spoken words; used in tests of speech audiometry. Also called speech recognition threshold. 
 - Monaural: pertaining to one ear
 - Hearing in noise test (HINT): here's an article [about it](http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=2445&context=etd). 
-- Decibles: [1](http://www.epd.gov.hk/epd/noise_education/web/ENG_EPD_HTML/m1/intro_5.html), [2]()
+- Decibles: two explanations... [1](http://www.epd.gov.hk/epd/noise_education/web/ENG_EPD_HTML/m1/intro_5.html), [2]()
 - threshold equalizing noise (TEN)
 - Threshold Equalizing Noise test (TEN(HL))
 - high-frequency emphasis (HFE) 
@@ -45,7 +45,7 @@
 - [Otoacoustic Emissions: Beyond Newborn Hearing Screening](http://www.audiologyonline.com/articles/otoacoustic-emissions-beyond-newborn-hearing-838)
 - [Medscape explanation - Otoacoustic Emissions](http://emedicine.medscape.com/article/835943-overview)
 - [Wikipedia - Otoacoustic emission](http://en.wikipedia.org/wiki/Otoacoustic_emission)
-
+- [Giant PhD dissertation on interpreting OAEs that looks interesting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEIQFjAD&url=https%3A%2F%2Fdspace.mit.edu%2Fbitstream%2Fhandle%2F1721.1%2F35547%2F73723005.pdf%3Fsequence%3D1&ei=4-k5U-TeAqrFsASk7oDYBg&usg=AFQjCNEWntRjUmz17rY0i3c8wBuU0JQ2gA&sig2=KX3Rnin1zRYOV8aHyXy2rg&bvm=bv.63808443,d.cWc&cad=rja)
 ### Causes: 
 - [Acoustic Neuroma (Vestibular Schwannoma)] aka Brain Tumor! (http://neurosurgery.ucla.edu/body.cfm?id=1123&ref=1&action=detail)
 
