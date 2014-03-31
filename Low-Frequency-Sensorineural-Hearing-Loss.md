@@ -36,7 +36,9 @@
 [Loudness matching of signals spectrally shaped by a simulated hearing aid.](http://www.ncbi.nlm.nih.gov/pubmed/8487527): Amplifying either side of the spectrum makes things sound louder, even though it's not louder.
 
 ### Dead zones
-[Dead zones and reverse curves](http://journals.lww.com/thehearingjournal/Fulltext/2009/08000/Dead_zones_and_reverse_curves.8.aspx)
+
+[Cochlear dead zones: What are they and how do you detect them? (Part 1 of a Journal of Hearing 'Nuts and Bolts' series)](http://journals.lww.com/thehearingjournal/Fulltext/2009/07000/Cochlear_dead_zones__What_are_they_and_how_do_you.8.aspx)
+[Dead zones and reverse curves (Part 2)](http://journals.lww.com/thehearingjournal/Fulltext/2009/08000/Dead_zones_and_reverse_curves.8.aspx)
 
 [Head injuries not likely to cause low-freq hearing loss](http://www.ncbi.nlm.nih.gov/pubmed/24653897)
 
