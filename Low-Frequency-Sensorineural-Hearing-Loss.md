@@ -45,7 +45,7 @@
 
 - [Very rare - effecting mostly women in late teens to 20's: Susac's syndrome](http://www.ajnr.org/content/25/3/351.long) (But this one case had exactly Esther's audiogram! http://www.ped-rheum.com/content/6/1/3/figure/F2)
 
-## Articles: 
+## Academic articles: 
 
 ### Hearing Aid fitting 
 
@@ -97,6 +97,10 @@ Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a functi
 
 [Use of a loudness model for hearing aid fitting. IV. Fitting hearing aids with multi-channel compression so as to restore 'normal' loudness for speech at different levels.](http://www.ncbi.nlm.nih.gov/pubmed/10905450)
 
+### Directional microphones:
+
+- [Performance of directional microphones for hearing aids: Real world vs Simulation](https://www.etymotic.com/publications/erl-0103-2004.pdf)
+-- Some methods of simulating directional performance were not accurate, one was. 
 
 ### Tools/Resources:
 
