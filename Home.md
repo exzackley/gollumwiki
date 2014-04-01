@@ -14,6 +14,8 @@ Welcome to my research and draft writing space. Feel free to share and comment.
 
 [[Beyond Outrage]] Robert Reich
 
+[[1877: America's Year of Living Violently]] by Michael A. Bellesiles, 2010 
+
 ## SCIENCE!
 
 [[Low Frequency Sensorineural Hearing Loss]] (SNHL) or "Reverse Slope" Hearing Loss
