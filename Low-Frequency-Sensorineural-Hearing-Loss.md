@@ -19,6 +19,7 @@
 - Occlude/Occluding: stop, close up, or obstruct (an opening, orifice, or passage). e.g. hearing aids for low frequency hearing loss are usually occluding. 
 - Directionality in hearing aids. [Explanation by hearing aid manufacturer](http://www.sonion.com/Products/~/media/Files/Products/Application%20Notes/Transducers/Directionality_AN_rev005.ashx), [and another](https://starkeypro.com/resources/starkey-evidence/research-resources/directivity-index), 
 - Occlusion effect: 
+-Loudness recruitment: an effect with sensorineural hearing loss (but not conductive) that (I think!) can make loud sounds sound normal to hearing impaired people over a certain loudness level. [Here's an explanation.](http://www.sens.com/helps/helps_d03.htm)  
 
 ### Acoustics and related science:
 
@@ -77,6 +78,7 @@ Vinay and Moore, B. C. (2007). Speech recognition as a function of high-pass fil
 Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a function of highpass-filter cutoff frequency for people with and without low-frequency cochlear dead regions. J Acoust Soc Am 123(2): 606-9.
 
 - [Reprint of article on deadspots that is interesting: July/August 2003 (Vol 52, No 4) and March/April 2004 (vol 53, No 2) editions of The Hearing Professional](http://celtichearing.blogspot.com/2011_11_01_archive.html)
+- [A multicenter evaluation of how many infants with permanent hearing loss pass a two-stage otoacoustic emissions/automated auditory brainstem response newborn hearing screening protocol.](http://www.ncbi.nlm.nih.gov/pubmed/16140706)
 
 
 ### Dead zones
