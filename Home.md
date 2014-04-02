@@ -20,6 +20,8 @@
 
 [[The Great Awakening]] Thomas S. Kidd, 2007
 
+[[Inventing the People]] Edmond S. Morgan, 1989
+
 ## SCIENCE!
 
 [[Low Frequency Sensorineural Hearing Loss]] (SNHL) or "Reverse Slope" Hearing Loss
