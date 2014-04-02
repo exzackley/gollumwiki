@@ -14,7 +14,7 @@
 
 [[Beyond Outrage]] Robert Reich
 
-[[1877: America's Year of Living Violently]] by Michael A. Bellesiles, 2010 
+[[1877: America's Year of Living Violently|1877 Americas Year of Living Violently]] by Michael A. Bellesiles, 2010 
 
 [[From Chicaza to Chickasaw: The European Invasion and the Transformation of the Mississippian World, 1540-1715|From Chicaza to Chickasaw]] Robbie Ethridgek 2010
 
