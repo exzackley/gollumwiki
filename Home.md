@@ -1,4 +1,4 @@
-Welcome to my research and draft writing space. Feel free to share and comment. 
+# Welcome to my research and draft writing space. Feel free to share and comment. 
 
 ## Reading notes/book reports:
 
@@ -15,6 +15,8 @@ Welcome to my research and draft writing space. Feel free to share and comment.
 [[Beyond Outrage]] Robert Reich
 
 [[1877: America's Year of Living Violently]] by Michael A. Bellesiles, 2010 
+
+[[From Chicaza to Chickasaw: The European Invasion and the Transformation of the Mississippian World, 1540-1715]] Robbie Ethridgek 2010
 
 ## SCIENCE!
 
