@@ -18,6 +18,8 @@
 
 [[From Chicaza to Chickasaw: The European Invasion and the Transformation of the Mississippian World, 1540-1715|From Chicaza to Chickasaw]] Robbie Ethridgek 2010
 
+[[The Great Awakening]] Thomas S. Kidd, 2007
+
 ## SCIENCE!
 
 [[Low Frequency Sensorineural Hearing Loss]] (SNHL) or "Reverse Slope" Hearing Loss
