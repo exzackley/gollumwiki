@@ -64,7 +64,7 @@
 - [A Study on Effective Amplification Gain in Cochlea Dead Region with Word Recognition Score](http://www.sersc.org/journals/IJBSBT/vol4_no3/1.pdf)
 - [Frequency discrimination in ears with and without contralateral cochlear dead regions.](http://www.ncbi.nlm.nih.gov/pubmed/23786393)
 - [Dead Regions and Hearing Aid Fitting](http://www.audiologyonline.com/ask-the-experts/dead-regions-and-hearing-aid-35)
-
+- [Watch out for too much bass](http://hearinghealthmatters.org/hearinprivatepractice/2014/fitting-hearing-aids-cautious-amplify-low-frequencies/)
 Baer, T., Moore, B. C. and Kluk, K. (2002). Effects of low pass filtering on the intelligibility of speech in noise for people with and without dead regions at high frequencies. J Acoust Soc Am 112(3 Pt 1): 1133-44.
 
 Cox, R., Alexander, G., Johnson, J., Rivera, I. (2011). Cochlear dead regions in typical hearing aid candidates: Prevalence and implications for use of high-frequency speech cues. Ear and Hearing 32(3), 339 - 348.
