@@ -20,6 +20,13 @@
 - Directionality in hearing aids. [Explanation by hearing aid manufacturer](http://www.sonion.com/Products/~/media/Files/Products/Application%20Notes/Transducers/Directionality_AN_rev005.ashx), [and another](https://starkeypro.com/resources/starkey-evidence/research-resources/directivity-index), 
 - Occlusion effect: 
 -Loudness recruitment: an effect with sensorineural hearing loss (but not conductive) that (I think!) can make loud sounds sound normal to hearing impaired people over a certain loudness level. [Here's an explanation.](http://www.sens.com/helps/helps_d03.htm)  
+- Nonlinear hearing aid:
+- Wide Dynamic Range Compression (WDRC):
+- Channel:
+- Feedforward comb filter effect:
+basilar-membrane (BM) magnitude response:
+auditory-nerve (AN) fibers:
+
 
 ### Acoustics and related science:
 
@@ -31,7 +38,10 @@
 - [Frequency spectrum](https://en.wikipedia.org/wiki/Frequency_spectrum#Physical_acoustics_of_music) 
 - This guy's [ancient videos](http://vimeo.com/album/1512837/video/18938334) are actually a good intro to some basic acoustics concepts.
 - Roll off: the smooth fall of response to zero at either end of the frequency range of a piece of audio equipment.
-- 
+- Spectral shaping: 
+- CCT: California Consanant Test
+- NST: Nonsense Syllable Test. [Comparison and explanation of CCT and NST.](https://starkeypro.com/pdfs/research-briefs/Comparison_of_Adaptive_Versions_of_the_CCT_and_NST.pdf)
+
 
 
 ## Introductory articles/explanations:
@@ -56,7 +66,7 @@
 
 ### Hearing Aid fitting 
 
-- [Fitting tips - Changing With the Times: Managing Low-Frequency Hearing Loss](http://content.widexpro.com/images/researchArticles/DAR61.pdf]
+- [Fitting tips - Changing With the Times: Managing Low-Frequency Hearing Loss](http://content.widexpro.com/images/researchArticles/DAR61.pdf)
 - [Diagnosing 'cochlear dead regions' and adjusting hearing aids for maximum benefit](http://www.actiononhearingloss.org.uk/your-hearing/biomedical-research/projects-and-research/projects/south-east-and-anglia/diagnosing-cochlear-dead-regions-and-adjusting-hearing-aids-for-maximum-benefit-g18.aspx)
 - [Loudness matching of signals spectrally shaped by a simulated hearing aid.](http://www.ncbi.nlm.nih.gov/pubmed/8487527): Amplifying either side of the spectrum makes things sound louder, even though it's not louder.
 - [Cochlear Dead Regions in Typical Hearing Aid Candidates: Prevalence and Implications for Use of High-Frequency Speech Cues](Cochlear Dead Regions in Typical Hearing Aid Candidates: Prevalence and Implications for Use of High-Frequency Speech Cues)
@@ -64,7 +74,7 @@
 - [A Study on Effective Amplification Gain in Cochlea Dead Region with Word Recognition Score](http://www.sersc.org/journals/IJBSBT/vol4_no3/1.pdf)
 - [Frequency discrimination in ears with and without contralateral cochlear dead regions.](http://www.ncbi.nlm.nih.gov/pubmed/23786393)
 - [Dead Regions and Hearing Aid Fitting](http://www.audiologyonline.com/ask-the-experts/dead-regions-and-hearing-aid-35)
-- [Watch out for too much bass](http://hearinghealthmatters.org/hearinprivatepractice/2014/fitting-hearing-aids-cautious-amplify-low-frequencies/)
+
 Baer, T., Moore, B. C. and Kluk, K. (2002). Effects of low pass filtering on the intelligibility of speech in noise for people with and without dead regions at high frequencies. J Acoust Soc Am 112(3 Pt 1): 1133-44.
 
 Cox, R., Alexander, G., Johnson, J., Rivera, I. (2011). Cochlear dead regions in typical hearing aid candidates: Prevalence and implications for use of high-frequency speech cues. Ear and Hearing 32(3), 339 - 348.
@@ -80,6 +90,9 @@ Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a functi
 - [Reprint of article on deadspots that is interesting: July/August 2003 (Vol 52, No 4) and March/April 2004 (vol 53, No 2) editions of The Hearing Professional](http://celtichearing.blogspot.com/2011_11_01_archive.html)
 - [A multicenter evaluation of how many infants with permanent hearing loss pass a two-stage otoacoustic emissions/automated auditory brainstem response newborn hearing screening protocol.](http://www.ncbi.nlm.nih.gov/pubmed/16140706)
 
+### Loudness recruitment
+
+[Auditory-Nerve Rate Responses are Inconsistent with Common Hypotheses for the Neural Correlates of Loudness Recruitment (2005)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2538332/)
 
 ### Dead zones
 
@@ -87,6 +100,8 @@ Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a functi
 [Dead zones and reverse curves (Part 2)](http://journals.lww.com/thehearingjournal/Fulltext/2009/08000/Dead_zones_and_reverse_curves.8.aspx)
 
 [Head injuries not likely to cause low-freq hearing loss](http://www.ncbi.nlm.nih.gov/pubmed/24653897)
+
+[Good explanation of loudness](https://www.phonakpro.com/content/dam/phonak/b2b/C_M_tools/Library/background_stories/en/BGS_SoundRecover_Bandwidth_210x280_GB_V1.pdf)
 
 #### Genetics: 
 
@@ -117,12 +132,6 @@ Vinay, Baer, T. and Moore, B. C. (2008). Speech recognition in noise as a functi
 
 - [Hearing test on-line: sensitivity, equal loudness contours and audiometry ](http://www.phys.unsw.edu.au/jw/hearing.html)
 - [Guidelines for Audiologic Screening](http://www.asha.org/docs/html/GL1997-00199.html): from ASHA Panel on Audiologic Assessment [American Speech-Language Hearing Association](http://www.asha.org)
-
-## Brain tumors!
-
-[Medline - Brain tumor - children](http://www.nlm.nih.gov/medlineplus/ency/article/000768.htm)
-[Johnshopkins - Brain tumor - children](http://www.hopkinsmedicine.org/neurology_neurosurgery/specialty_areas/pediatric_neurosurgery/conditions/pediatric_brain_tumors.html)
-
 
 ## Forums:
 
