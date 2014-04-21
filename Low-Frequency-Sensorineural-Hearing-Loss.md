@@ -57,11 +57,13 @@ auditory-nerve (AN) fibers:
 - [Medscape explanation - Otoacoustic Emissions](http://emedicine.medscape.com/article/835943-overview)
 - [Wikipedia - Otoacoustic emission](http://en.wikipedia.org/wiki/Otoacoustic_emission)
 - [Giant PhD dissertation on interpreting OAEs that looks interesting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CEIQFjAD&url=https%3A%2F%2Fdspace.mit.edu%2Fbitstream%2Fhandle%2F1721.1%2F35547%2F73723005.pdf%3Fsequence%3D1&ei=4-k5U-TeAqrFsASk7oDYBg&usg=AFQjCNEWntRjUmz17rY0i3c8wBuU0JQ2gA&sig2=KX3Rnin1zRYOV8aHyXy2rg&bvm=bv.63808443,d.cWc&cad=rja)
+
 ### Causes: 
 - [Acoustic Neuroma (Vestibular Schwannoma)] aka Brain Tumor! (http://neurosurgery.ucla.edu/body.cfm?id=1123&ref=1&action=detail)
 - [Genetics](http://emedicine.medscape.com/article/855875-overview#a0104)
 - [Very rare - effecting mostly women in late teens to 20's: Susac's syndrome](http://www.ajnr.org/content/25/3/351.long) (But this one case had exactly Esther's audiogram! http://www.ped-rheum.com/content/6/1/3/figure/F2)
 - [Pendred syndrome - rare genetic syndrome](http://www.nidcd.nih.gov/health/hearing/pages/pendred.aspx)
+- [Overview of congenital hearing loss](http://www.ncbi.nlm.nih.gov/books/NBK1434/)
 
 ## Academic articles: 
 
