@@ -24,9 +24,9 @@
 - Wide Dynamic Range Compression (WDRC):
 - Channel:
 - Feedforward comb filter effect:
-basilar-membrane (BM) magnitude response:
-auditory-nerve (AN) fibers:
-
+- basilar-membrane (BM) magnitude response:
+- auditory-nerve (AN) fibers:
+- syndromic/nonsyndromic hearing loss: with / not with associated signs or symptoms
 
 ### Acoustics and related science:
 
@@ -77,6 +77,7 @@ auditory-nerve (AN) fibers:
 - [A Study on Effective Amplification Gain in Cochlea Dead Region with Word Recognition Score](http://www.sersc.org/journals/IJBSBT/vol4_no3/1.pdf)
 - [Frequency discrimination in ears with and without contralateral cochlear dead regions.](http://www.ncbi.nlm.nih.gov/pubmed/23786393)
 - [Dead Regions and Hearing Aid Fitting](http://www.audiologyonline.com/ask-the-experts/dead-regions-and-hearing-aid-35)
+- [History of the Master Hearing Aid](http://www.ncbi.nlm.nih.gov/pubmed/23686682) 
 
 Baer, T., Moore, B. C. and Kluk, K. (2002). Effects of low pass filtering on the intelligibility of speech in noise for people with and without dead regions at high frequencies. J Acoust Soc Am 112(3 Pt 1): 1133-44.
 
