@@ -30,7 +30,9 @@
 
 [[The Revolution Misses You]]
 
-[[A history of the world for revolutionary dummies]]
+Takes on the "world history for activists" idea...
+- [[A history of the world for revolutionary dummies]]
+- [[History-of-the-world-for-those-who-want-to-change-it]]
 
 ## Histories on screen
 
